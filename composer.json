@@ -1,13 +1,17 @@
 {
-    "name": "khadegd/laravel-breeze-bootstrap",
+    "name": "jeremiahsherrill/laravel-breeze-bootstrap",
     "description": "Minimal Laravel authentication scaffolding with Blade and Bootstrap.",
     "keywords": ["laravel", "auth"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/khadegd/larave-breeze-bootstrap/issues",
-        "source": "https://github.com/khadegd/laravel-breeze-bootstrap"
+        "issues": "https://github.com/jeremiahsherrill/larave-breeze-bootstrap/issues",
+        "source": "https://github.com/jeremiahsherrill/laravel-breeze-bootstrap"
     },
     "authors": [
+        {
+            "name": "Jeremiah Sherrill",
+            "email": "jeremiahsherrill.com"
+        }
         {
             "name": "Ganesh Khade",
             "email": "ganesh.khade@outlook.com"
@@ -19,9 +23,9 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "illuminate/filesystem": "^8.42",
-        "illuminate/support": "^8.42",
-        "illuminate/validation": "^8.42"
+        "illuminate/filesystem": "^9.38",
+        "illuminate/support": "^9.38",
+        "illuminate/validation": "^9.38"
     },
     "autoload": {
         "psr-4": {
